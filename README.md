@@ -1,5 +1,5 @@
 # About Me:
-I am currently working on the real life end to end projects of data and business analysis. Later, I am planning to expand this to AI/ML. I am looking to collaborate on the real life business problem AI/ML projects. I am looking for help whoever have high knowledge to teach the AI/ML concepts deeply. 'Currently, learning and practicing SQL concepts, solving problems on HackerRank, LeetCode. You can ask me about anything related the concept of data analysis. Fun fact about me that I am very enthusiastic about any kind of sport, with a good humor to keep one laughing, hahahaha!!!
+I am currently working on the real life end to end projects of data science (backend-focused with system design). Later, I am planning to expand this to Machine Learning. I am looking to collaborate on the real life business problem ML projects. I am looking for help whoever have high knowledge to teach the ML concepts deeply. Currently, learning and practicing SQL concepts, solving problems on HackerRank and LeetCode. You can ask me about anything related the concept of data science. Fun fact about me that I am very enthusiastic about any kind of sport, with a good humor to keep one laughing, hahahaha!!!
 
 
 ## Socials:
