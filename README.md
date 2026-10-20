@@ -4,13 +4,16 @@
   <img src="https://www.gitskins.com/api/section/hero?username=sadmantihan&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F122677125%3Fu%3D1875e2e882a813768abe9180d31eb3a0eb184b97%26v%3D4" alt="sadmantihan hero visual" />
 </p>
 
-**Md. Sadman Sami Khan** · Data scientist or machine learning engineer
+**Md. Sadman Sami Khan** · Frontend or full-stack engineer
 
 ## Operating principles
 
-<pre><code>ROLE        = Data scientist or machine learning engineer
-LOCATION    = Chandpur,Chittagong,Bangladesh
-PUBLIC_REPOS = 28</code></pre>
+<pre><code>ROLE        = Frontend or full-stack engineer
+LOCATION    = Chittagong,Bangladesh
+PUBLIC_REPOS = 28
+COMMUNITY   = 0 followers</code></pre>
+
+github.com/sadmantihan/sadmantihan
 
 ## Uptime in motion
 
@@ -48,4 +51,4 @@ PUBLIC_REPOS = 28</code></pre>
 
 <a href="https://github.com/sadmantihan">GitHub</a> · <a href="https://sadman-sami-khan.vercel.app">Website</a>
 
-<p align="center"><sub>Md. Sadman Sami Khan</sub></p>
+<p align="center"><sub>Md. Sadman Sami Khan · DevOps profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
